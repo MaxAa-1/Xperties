@@ -1,4 +1,4 @@
-# Xperties
+# Xperties - Index
 Freelance Project Collaboration Website
 
 This branch is dedicated to the components of the index page. 
