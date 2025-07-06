@@ -1,5 +1,6 @@
 # Xperties
 Freelance Project Collaboration Website
+
 This branch is dedicated to the components of the index page. 
 
 Consists of the index page and a seperate feature on that page. 
